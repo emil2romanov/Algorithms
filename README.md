@@ -1,1 +1,1 @@
-# AlgorithmsFundamentals
+# Algorithms
