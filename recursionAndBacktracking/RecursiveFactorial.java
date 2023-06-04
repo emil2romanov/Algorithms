@@ -7,7 +7,7 @@ public class RecursiveFactorial {
         Scanner scanner = new Scanner(System.in);
 
         int n = Integer.parseInt(scanner.nextLine());
-        
+
         long result = calculateFactorial(n);
 
         System.out.println(result);
